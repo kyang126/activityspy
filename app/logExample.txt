@@ -1,0 +1,21 @@
+--------- beginning of /dev/log/main
+--------- beginning of /dev/log/system
+I/activityspy(  810): on{onCreate()} event fired
+I/activityspy(  810): on{onStart()} event fired
+I/activityspy(  810): on{onResume()} event fired
+I/activityspy(  810): on{onPause()} event fired
+I/activityspy(  810): on{onStop()} event fired
+E/activityspy(  810): We're going down Captain!
+I/activityspy(  810): on{onCreate()} event fired
+I/activityspy(  810): on{onStart()} event fired
+I/activityspy(  810): on{onResume()} event fired
+I/activityspy(  810): on{onPause()} event fired
+I/activityspy(  810): on{onStop()} event fired
+E/activityspy(  810): We're going down Captain!
+I/activityspy(  810): on{onCreate()} event fired
+I/activityspy(  810): on{onStart()} event fired
+I/activityspy(  810): on{onResume()} event fired
+I/activityspy(  810): on{onPause()} event fired
+I/activityspy(  810): on{onStop()} event fired
+I/activityspy(  810): on{onStart()} event fired
+I/activityspy(  810): on{onResume()} event fired

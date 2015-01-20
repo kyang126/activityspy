@@ -1,0 +1,42 @@
+--------- beginning of /dev/log/main
+--------- beginning of /dev/log/system
+I/activityspy(  935): on{onCreate()} event fired
+I/activityspy(  935): on{onStart()} event fired
+I/activityspy(  935): on{onResume()} event fired
+I/activityspy(  935): on{onPause()} event fired
+I/activityspy(  935): on{onStop()} event fired
+I/activityspy(  935): on{onStart()} event fired
+I/activityspy(  935): on{onResume()} event fired
+I/activityspy(  935): on{onPause()} event fired
+I/activityspy(  935): on{onStop()} event fired
+E/activityspy(  935): We're going down Captain!
+I/activityspy(  935): on{onCreate()} event fired
+I/activityspy(  935): on{onStart()} event fired
+I/activityspy(  935): on{onResume()} event fired
+I/activityspy(  935): on{onPause()} event fired
+I/activityspy(  935): on{onStop()} event fired
+I/activityspy(  935): on{onStart()} event fired
+I/activityspy(  935): on{onResume()} event fired
+I/activityspy( 1023): on{onCreate()} event fired
+I/activityspy( 1023): on{onStart()} event fired
+I/activityspy( 1023): on{onResume()} event fired
+I/activityspy( 1075): on{onCreate()} event fired
+I/activityspy( 1075): on{onStart()} event fired
+I/activityspy( 1075): on{onResume()} event fired
+I/activityspy( 1075): on{onPause()} event fired
+I/activityspy( 1075): on{onStop()} event fired
+I/activityspy( 1075): on{onStart()} event fired
+I/activityspy( 1075): on{onResume()} event fired
+I/activityspy( 1132): on{onCreate()} event fired
+I/activityspy( 1132): on{onStart()} event fired
+I/activityspy( 1132): on{onResume()} event fired
+I/activityspy( 1132): on{onPause()} event fired
+I/activityspy( 1132): on{onStop()} event fired
+I/activityspy( 1132): on{onStart()} event fired
+I/activityspy( 1132): on{onResume()} event fired
+I/activityspy( 1132): on{onPause()} event fired
+I/activityspy( 1132): on{onStop()} event fired
+E/activityspy( 1132): We're going down Captain!
+I/activityspy( 1132): on{onCreate()} event fired
+I/activityspy( 1132): on{onStart()} event fired
+I/activityspy( 1132): on{onResume()} event fired
